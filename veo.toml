@@ -1,0 +1,3 @@
+[package]
+name = "veoc-windows-x86_64"
+entry = "src/main.veo"
